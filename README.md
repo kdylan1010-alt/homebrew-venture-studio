@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `privateblur` | PrivateBlur | a native macOS privacy tool for ordinary people sharing images or PDFs who need to find |
+| `privateblur` | PrivateBlur | a local-only native macOS utility for people who share screenshots, photographs, scans |
 | `trustlens` | TrustLens | Merchant Investigator helps ordinary online shoppers investigate unfamiliar merchants |
 | `recall-match` | Watchtower | Watchtower, a native macOS app from the AI Venture Studio |
 | `tripclaim` | TripClaim | for ordinary airline passengers dealing with cancellations, long delays, or missed |
