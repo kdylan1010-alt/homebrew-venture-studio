@@ -1,6 +1,6 @@
 cask "privateblur" do
-  version "2026.09.20"
-  sha256 "105cb05dfa881193bd9e298f8665d1bb4907d4f32c882cf383db509b8383fd59"
+  version "2026.09.22"
+  sha256 "67bb1112ebba5cef8123dfbc2d169fbeca9672f9c7ff7a007b62c82fc5ac2a80"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/privateblur-macos/PrivateBlur.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
