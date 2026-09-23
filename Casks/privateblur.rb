@@ -1,11 +1,11 @@
 cask "privateblur" do
-  version "2026.09.22"
-  sha256 "67bb1112ebba5cef8123dfbc2d169fbeca9672f9c7ff7a007b62c82fc5ac2a80"
+  version "2026.09.23"
+  sha256 "55162b91e325f462fc1be76e5ff70ced0c5645929aceca4dc09d2e9661aef72e"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/privateblur-macos/PrivateBlur.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "PrivateBlur"
-  desc "a local-only native macOS utility for people who share screenshots"
+  desc "a native macOS app for people who need to share photos without exposing"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "PrivateBlur.app"
