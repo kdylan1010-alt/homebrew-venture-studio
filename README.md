@@ -9,7 +9,8 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `privateblur` | PrivateBlur | a native macOS app for people who need to share photos without exposing faces or |
+| `eventweaver-macos` | PrivateBlur | EventWeaver, a native macOS event-import workspace for parents, students, travelers |
+| `privateblur-macos` | PrivateBlur | a native macOS app for people who need to share photos without exposing faces or |
 | `trustlens` | TrustLens | Merchant Investigator helps ordinary online shoppers investigate unfamiliar merchants |
 | `recall-match` | Watchtower | Watchtower, a native macOS app from the AI Venture Studio |
 | `tripclaim` | TripClaim | for ordinary airline passengers dealing with cancellations, long delays, or missed |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `policydriftradar` | PolicyDriftRadar | AI Policy & Standards Radar for founders, legal/compliance teams, policy analysts, and |
 | `priorauthappealdesk` | PriorAuthAppealDesk | Prior Auth Appeal Desk for small specialty clinics and patient advocates: a native Mac |
 | `procurementpulse` | ProcurementPulse | Procurement Pulse for small contractors, estimators, and boutique firms that lose revenue |
-| `receiptsentinel` | ReceiptSentinel | Receipt Sentinel: a native macOS app for freelancers, contractors, and very small |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
