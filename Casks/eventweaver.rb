@@ -1,11 +1,11 @@
 cask "eventweaver" do
-  version "2026.09.28"
-  sha256 "a73f469d0c4087c3c72b3107e571840ef7f72cde32157b8d41a7c439e19be101"
+  version "2026.09.29"
+  sha256 "42cf98e7cfd6f00f8eb2bdc9e686aa840fc087dcefef7237a98dd59b0b2f0f89"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/eventweaver-macos/EventWeaver.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "EventWeaver"
-  desc "a native macOS app for people who encounter events across webpages"
+  desc "a native macOS event-import workspace for parents"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "EventWeaver.app"
