@@ -1,11 +1,11 @@
-cask "eventweaver-macos" do
-  version "2026.09.30"
-  sha256 "3b1fde9e97a6f8ea441da2ac608b41029fb2f69b1063ece35c713afdb1657047"
+cask "sortsmith-macos" do
+  version "2026.10.01"
+  sha256 "8c68c470908d56ef787dc5c7b23948cd1d54450e8a0d82a28e2a0270106d727d"
 
-  url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/eventweaver-macos/EventWeaver.dmg",
+  url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/sortsmith-macos/EventWeaver.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "EventWeaver"
-  desc "a native macOS app for people collecting event details from messy"
+  desc "SortSmith, a native macOS organizer for ordinary people with chaotic"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "EventWeaver.app"

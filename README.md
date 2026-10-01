@@ -9,7 +9,8 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `eventweaver` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
+| `sortsmith-macos` | EventWeaver | SortSmith, a native macOS organizer for ordinary people with chaotic Downloads, Desktop |
+| `eventweaver-macos` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
 | `privateblur` | PrivateBlur | a native macOS app for people who need to share photos without exposing faces or |
 | `trustlens` | TrustLens | Merchant Investigator helps ordinary online shoppers investigate unfamiliar merchants |
 | `recall-match` | Watchtower | Watchtower, a native macOS app from the AI Venture Studio |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `taxgapscout` | TaxGapScout | A local-only macOS desktop app for freelancers and microbusinesses that scans receipts |
 | `policydriftradar` | PolicyDriftRadar | AI Policy & Standards Radar for founders, legal/compliance teams, policy analysts, and |
 | `priorauthappealdesk` | PriorAuthAppealDesk | Prior Auth Appeal Desk for small specialty clinics and patient advocates: a native Mac |
-| `procurementpulse` | ProcurementPulse | Procurement Pulse for small contractors, estimators, and boutique firms that lose revenue |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
