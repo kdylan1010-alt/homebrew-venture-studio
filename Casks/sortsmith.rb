@@ -5,7 +5,7 @@ cask "sortsmith" do
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/sortsmith-macos/SortSmith.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "SortSmith"
-  desc "a native macOS desktop tool for people managing cluttered personal and"
+  desc "a native macOS tool for ordinary people with chronically cluttered"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "SortSmith.app"

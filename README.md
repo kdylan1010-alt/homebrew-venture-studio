@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `sortsmith` | SortSmith | a native macOS desktop tool for people managing cluttered personal and work folders |
+| `sortsmith` | SortSmith | a native macOS tool for ordinary people with chronically cluttered Downloads and work |
 | `eventweaver` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
 | `privateblur` | PrivateBlur | a native macOS app for people who need to share photos without exposing faces or |
 | `trustlens` | TrustLens | Merchant Investigator helps ordinary online shoppers investigate unfamiliar merchants |
