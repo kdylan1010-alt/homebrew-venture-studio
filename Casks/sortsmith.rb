@@ -1,6 +1,6 @@
 cask "sortsmith" do
-  version "2026.10.04"
-  sha256 "0e88400e8e5a30be37d7b462e37bc5ce9a3a4f3daad85f24681d8f0963c0649f"
+  version "2026.10.05"
+  sha256 "5a7e0db2472aeea5e7020279c383f12987331fc2eacd98849a076c23a893347b"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/sortsmith-macos/SortSmith.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
