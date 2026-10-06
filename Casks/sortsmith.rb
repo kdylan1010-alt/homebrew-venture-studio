@@ -1,11 +1,11 @@
 cask "sortsmith" do
-  version "2026.10.05"
-  sha256 "5a7e0db2472aeea5e7020279c383f12987331fc2eacd98849a076c23a893347b"
+  version "2026.10.06"
+  sha256 "9a1d590878a809eecdc48124084c306ad1d4b0e1f2fc4c09f3c3062e907eca7b"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/sortsmith-macos/SortSmith.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "SortSmith"
-  desc "a native macOS organizer for ordinary people with chronically cluttered"
+  desc "a native macOS desktop organizer for people with cluttered Downloads"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "SortSmith.app"
