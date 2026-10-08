@@ -1,11 +1,11 @@
-cask "sortsmith-macos" do
-  version "2026.10.07"
-  sha256 "09a7372cbd6432fd07131991626f3400a3263271e7971bd9ee27fdf908cafbc7"
+cask "bookletsmith-macos" do
+  version "2026.10.08"
+  sha256 "e1208047163299694f3391577d18f13c2f3b93c46aa2d8f3c47a695f7f0332cd"
 
-  url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/sortsmith-macos/SortSmith.dmg",
+  url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/bookletsmith-macos/SortSmith.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "SortSmith"
-  desc "a native macOS desktop tool for people with messy folders who need to"
+  desc "BookletSmith, a native macOS PDF imposition application for ordinary"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "SortSmith.app"

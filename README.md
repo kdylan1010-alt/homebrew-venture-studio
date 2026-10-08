@@ -9,7 +9,8 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `sortsmith` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
+| `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
+| `sortsmith-macos` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
 | `eventweaver` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
 | `privateblur` | PrivateBlur | a native macOS app for people who need to share photos without exposing faces or |
 | `trustlens` | TrustLens | Merchant Investigator helps ordinary online shoppers investigate unfamiliar merchants |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `macsecretsweep` | MacSecretSweep | Mac SecretSweep: a native macOS app for freelancers and small teams that painlessly scans |
 | `taxgapscout` | TaxGapScout | A local-only macOS desktop app for freelancers and microbusinesses that scans receipts |
 | `policydriftradar` | PolicyDriftRadar | AI Policy & Standards Radar for founders, legal/compliance teams, policy analysts, and |
-| `priorauthappealdesk` | PriorAuthAppealDesk | Prior Auth Appeal Desk for small specialty clinics and patient advocates: a native Mac |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
