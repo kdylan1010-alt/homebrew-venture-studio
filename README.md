@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `notchbloom` | NotchBloom | for ordinary MacBook and desktop Mac users who repeatedly check timers, appointments |
 | `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
 | `sortsmith-macos` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
 | `eventweaver` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `localsecretspiisweeper` | LocalSecretsPIISweeper | A privacy-first native macOS utility for consultants, agencies, and small businesses that |
 | `macsecretsweep` | MacSecretSweep | Mac SecretSweep: a native macOS app for freelancers and small teams that painlessly scans |
 | `taxgapscout` | TaxGapScout | A local-only macOS desktop app for freelancers and microbusinesses that scans receipts |
-| `policydriftradar` | PolicyDriftRadar | AI Policy & Standards Radar for founders, legal/compliance teams, policy analysts, and |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
