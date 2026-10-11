@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `notchbloom` | NotchBloom | for ordinary MacBook and desktop Mac users who repeatedly check timers, appointments |
+| `notchbloom` | NotchBloom | an original, adaptive activity surface that blooms around the Mac’s display notch—or a |
 | `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
 | `sortsmith-macos` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
 | `eventweaver` | EventWeaver | a native macOS app for people collecting event details from messy webpages and documents |
