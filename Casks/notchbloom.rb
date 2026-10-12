@@ -1,11 +1,11 @@
 cask "notchbloom" do
-  version "2026.10.11"
-  sha256 "6a72239df0529136eb00147039557932d91196b0aad733980d483378b74a535e"
+  version "2026.10.12"
+  sha256 "3f2f70b8542a7ecaefa1f06c108017ad4ad7b6fa65b463a71e39554f34856b9b"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/notchbloom/NotchBloom.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "NotchBloom"
-  desc "an original, adaptive activity surface that blooms around the Mac’s"
+  desc "a native macOS activity surface that blooms around the camera area—or a"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "NotchBloom.app"
