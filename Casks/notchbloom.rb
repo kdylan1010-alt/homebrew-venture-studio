@@ -1,11 +1,11 @@
 cask "notchbloom" do
-  version "2026.10.15"
-  sha256 "7e168030f81930c9c2c412e6eaeae90bbf8a3d531f50dd76e10b373fb47c1b96"
+  version "2026.10.16"
+  sha256 "6ea35eb1661c0e3bdbb1a634ef2f6f7c9172c59625f729831321b6cfb6efd660"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/notchbloom/NotchBloom.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "NotchBloom"
-  desc "a native macOS activity surface for people who want their MacBook"
+  desc "the existing native macOS activity bar that turns the display area"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "NotchBloom.app"
