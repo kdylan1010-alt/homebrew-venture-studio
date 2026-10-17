@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `lumaloop` | LumaLoop | a native multi-display live-wallpaper engine for Mac owners who want their computer to |
 | `notchbloom` | NotchBloom | the existing native macOS activity bar that turns the display area around the notch—or a |
 | `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
 | `sortsmith-macos` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `bidtriage` | BidTriage | Local RFP/Bid Triage Assistant for small contractors: target users are small |
 | `localsecretspiisweeper` | LocalSecretsPIISweeper | A privacy-first native macOS utility for consultants, agencies, and small businesses that |
 | `macsecretsweep` | MacSecretSweep | Mac SecretSweep: a native macOS app for freelancers and small teams that painlessly scans |
-| `taxgapscout` | TaxGapScout | A local-only macOS desktop app for freelancers and microbusinesses that scans receipts |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
