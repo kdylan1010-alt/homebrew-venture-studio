@@ -1,6 +1,6 @@
 cask "notchbloom" do
-  version "2026.10.16"
-  sha256 "6ea35eb1661c0e3bdbb1a634ef2f6f7c9172c59625f729831321b6cfb6efd660"
+  version "2026.10.18"
+  sha256 "750d0f30eebb503c4bd7964213d0a72b9a2dbc8001cb715f69183ee2908580bf"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/notchbloom/NotchBloom.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"

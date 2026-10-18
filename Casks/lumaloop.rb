@@ -1,6 +1,6 @@
 cask "lumaloop" do
   version "2026.10.18"
-  sha256 "47218c051a0dfc9ebade7998f24230f6f67af0756d4032eed4c22c52f323ee48"
+  sha256 "311f473b7dc357005019f44500ed312eec7232de4932e7ac9ca1eaa06e530836"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/lumaloop/LumaLoop.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
