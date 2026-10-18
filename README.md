@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `lumaloop` | LumaLoop | a native multi-display live-wallpaper engine for Mac owners who want their computer to |
+| `lumaloop` | LumaLoop | a native multi-display live-wallpaper app for people who want their Mac to feel personal |
 | `notchbloom` | NotchBloom | the existing native macOS activity bar that turns the display area around the notch—or a |
 | `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
 | `sortsmith-macos` | SortSmith | a native macOS desktop tool for people with messy folders who need to safely organize |
