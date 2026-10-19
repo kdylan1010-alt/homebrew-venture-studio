@@ -1,11 +1,11 @@
 cask "lumaloop" do
-  version "2026.10.18"
-  sha256 "311f473b7dc357005019f44500ed312eec7232de4932e7ac9ca1eaa06e530836"
+  version "2026.10.19"
+  sha256 "e55cf0e23c1ff577887f702501bcd6b181c30694ea54f36533b51b9d990e0658"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/lumaloop/LumaLoop.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "LumaLoop"
-  desc "a native multi-display live-wallpaper app for people who want their Mac"
+  desc "a native macOS live-wallpaper engine for people who want their Mac to"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "LumaLoop.app"
