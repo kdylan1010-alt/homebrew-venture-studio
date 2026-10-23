@@ -1,11 +1,11 @@
 cask "lumaloop" do
-  version "2026.10.22"
-  sha256 "b2f6eafed5719b2b2d8f55dabdbb852835a8359ee88f60b3980d754e9767e0f3"
+  version "2026.10.23"
+  sha256 "0c3580b9ad8be3199ad380d6d4ae9a68664a5dc12603ab6ec056e7c49e6b2a6c"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/lumaloop/LumaLoop.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "LumaLoop"
-  desc "turns live camera movement into responsive, persistent trails of light"
+  desc "the existing native Mac creative-play app for people who want to turn"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "LumaLoop.app"
