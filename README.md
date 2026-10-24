@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |
 | `lumaloop` | LumaLoop | the existing native Mac creative-play app for people who want to turn their own movement |
 | `notchbloom` | NotchBloom | the existing native macOS activity bar that turns the display area around the notch—or a |
 | `bookletsmith-macos` | SortSmith | BookletSmith, a native macOS PDF imposition application for ordinary people producing |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `einvoiceworkbench` | EInvoiceWorkbench | eInvoice Workbench: a native macOS desktop app for SMEs, bookkeepers, and cross-border |
 | `bidtriage` | BidTriage | Local RFP/Bid Triage Assistant for small contractors: target users are small |
 | `localsecretspiisweeper` | LocalSecretsPIISweeper | A privacy-first native macOS utility for consultants, agencies, and small businesses that |
-| `macsecretsweep` | MacSecretSweep | Mac SecretSweep: a native macOS app for freelancers and small teams that painlessly scans |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
