@@ -1,6 +1,6 @@
 cask "cutmagnet" do
-  version "2026.10.29"
-  sha256 "2492edf9f78ac015a577c72bdc282e116f3b9581c2ee0ad9e249b5ac1fabd4f3"
+  version "2026.10.30"
+  sha256 "5645cf2e22cf183f95d1db51396a8baab64c4946f3ecb683d641c576c3c60e7a"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/cut-magnet/CutMagnet.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
