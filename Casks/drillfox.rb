@@ -1,11 +1,11 @@
 cask "drillfox" do
-  version "2026.10.31"
-  sha256 "d2c8588f5b07fd3c92a285a7b35921586f7f0b9e9600ae77780ae878b246d42e"
+  version "2026.11.01"
+  sha256 "e3a06882a48172b457df2a55f02775e184608fee1f876f5c28918b2cb38baf36"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/drill-fox/DrillFox.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "DrillFox"
-  desc "Drill Fox: a native Mac training-drill simulator for recreational"
+  desc "Drill Adversary: Draw a training drill and assign points"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "DrillFox.app"
