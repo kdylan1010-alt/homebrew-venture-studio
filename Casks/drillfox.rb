@@ -1,6 +1,6 @@
 cask "drillfox" do
-  version "2026.11.02"
-  sha256 "52705ee9f1531db2dcd74e4ea845d1368137f6f5ca64d2f0ce0786a5027ca996"
+  version "2026.11.03"
+  sha256 "2e883f3c13e3636432ebe0738ea99ddf7a201be91b3fb4d5e1d628133772f765"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/drill-fox/DrillFox.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
