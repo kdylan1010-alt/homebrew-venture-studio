@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `drillfox` | DrillFox | Drill Adversary: Draw a training drill and assign points |
+| `drillfox` | DrillFox | Drill Fox lets coaches draw a training drill and assign points, then pits simulated |
 | `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |
 | `lumaloop` | LumaLoop | the existing native Mac creative-play app for people who want to turn their own movement |
 | `notchbloom` | NotchBloom | the existing native macOS activity bar that turns the display area around the notch—or a |
