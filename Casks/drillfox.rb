@@ -1,11 +1,11 @@
 cask "drillfox" do
-  version "2026.11.04"
-  sha256 "0d4a6403cf6eb2b96b58c36e67d20e4a3b32c693f1fcbba1c1db6ffda9c304ab"
+  version "2026.11.05"
+  sha256 "43d42e1ba7243b81ded3162fe8d560b33e1ea4923ed7569f0d371033dc55d4a1"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/drill-fox/DrillFox.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "DrillFox"
-  desc "Drill Fox lets coaches draw a training drill and assign points, then"
+  desc "Drill Adversary: Draw a training drill and assign points"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "DrillFox.app"
