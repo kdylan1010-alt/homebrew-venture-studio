@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `silkplay` | Silkplay | a tabletop physics playground for curious families, students and adults |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |
 | `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |
 | `lumaloop` | LumaLoop | the existing native Mac creative-play app for people who want to turn their own movement |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `contractdriftfinder` | ContractDriftFinder | A native macOS app for SMB owners, ops managers, and freelancers that opens PDFs locally |
 | `downloadtriageassistant` | DownloadTriageAssistant | A native macOS desktop utility for security-conscious users, consultants, and IT admins |
 | `einvoiceworkbench` | EInvoiceWorkbench | eInvoice Workbench: a native macOS desktop app for SMEs, bookkeepers, and cross-border |
-| `bidtriage` | BidTriage | Local RFP/Bid Triage Assistant for small contractors: target users are small |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
