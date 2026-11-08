@@ -1,6 +1,6 @@
 cask "silkplay" do
-  version "2026.11.07"
-  sha256 "41c44c8494dc417f074e87a2a14456131b96383eb9fe5921d4e2e3bb136f70ae"
+  version "2026.11.08"
+  sha256 "948e4419df6fd5c7881670d4cad6f253523b19fac00a886030b82e4f7480f8d9"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/silkplay/Silkplay.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
