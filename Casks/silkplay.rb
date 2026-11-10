@@ -1,11 +1,11 @@
 cask "silkplay" do
-  version "2026.11.08"
-  sha256 "948e4419df6fd5c7881670d4cad6f253523b19fac00a886030b82e4f7480f8d9"
+  version "2026.11.10"
+  sha256 "bbcd755e453935d8b66214c88079f0327b15423349cc4458cff7f4bbe6200ef0"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/silkplay/Silkplay.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "Silkplay"
-  desc "a tabletop physics playground for curious families, students and adults"
+  desc "A tabletop wave playground for curious families, students and adults on"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "Silkplay.app"
