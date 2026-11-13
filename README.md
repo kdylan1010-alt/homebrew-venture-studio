@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `silkplay` | Silkplay | turns the user’s desk into a living virtual spider-web laboratory: it recognizes desk |
+| `silkplay` | Silkplay | A tabletop wave playground for curious families, students and adults on Mac |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |
 | `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |
 | `lumaloop` | LumaLoop | the existing native Mac creative-play app for people who want to turn their own movement |
