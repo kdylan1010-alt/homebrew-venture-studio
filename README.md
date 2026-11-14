@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `sharedreach` | SharedReach | Shared Reach is a seated cooperative Mac game for older adults, relatives and friends |
 | `silkplay` | Silkplay | A tabletop wave playground for curious families, students and adults on Mac |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |
 | `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `airgapredactionworkbench` | AirgapRedactionWorkbench | Air-gapped Redaction Workbench: target users are law firms, compliance teams |
 | `contractdriftfinder` | ContractDriftFinder | A native macOS app for SMB owners, ops managers, and freelancers that opens PDFs locally |
 | `downloadtriageassistant` | DownloadTriageAssistant | A native macOS desktop utility for security-conscious users, consultants, and IT admins |
-| `einvoiceworkbench` | EInvoiceWorkbench | eInvoice Workbench: a native macOS desktop app for SMEs, bookkeepers, and cross-border |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
