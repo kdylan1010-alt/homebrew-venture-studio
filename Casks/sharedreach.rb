@@ -1,11 +1,11 @@
 cask "sharedreach" do
-  version "2026.11.14"
-  sha256 "1f8da1fc48c50bd7859995574408fe86807074c0521b519aaff1a2474df0f76a"
+  version "2026.11.15"
+  sha256 "034b302af9046667510a55152fdb7130421dd8dc3d26f16f875f25435cf7fa6c"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/shared-reach/SharedReach.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "SharedReach"
-  desc "Shared Reach is a seated cooperative Mac game for older adults"
+  desc "Shared Reach: Two people separately trace comfortable seated reaches"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "SharedReach.app"
