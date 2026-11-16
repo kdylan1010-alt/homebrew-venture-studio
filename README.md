@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `sharedreach` | SharedReach | Shared Reach: Two people separately trace comfortable seated reaches; the Mac invents |
+| `sharedreach` | SharedReach | Two people separately trace comfortable seated reaches; the Mac invents cooperative |
 | `silkplay` | Silkplay | A tabletop wave playground for curious families, students and adults on Mac |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |
 | `cutmagnet` | CutMagnet | Cut Magnet is a native Mac creative instrument for hobby filmmakers, dancers, families |

@@ -1,11 +1,11 @@
 cask "sharedreach" do
-  version "2026.11.15"
-  sha256 "034b302af9046667510a55152fdb7130421dd8dc3d26f16f875f25435cf7fa6c"
+  version "2026.11.16"
+  sha256 "791eb036615d68c42a064b0d1cee0c4c1fc8ea259e86e251e8b1a5e2bca61f40"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/shared-reach/SharedReach.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "SharedReach"
-  desc "Shared Reach: Two people separately trace comfortable seated reaches"
+  desc "Two people separately trace comfortable seated reaches; the Mac invents"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "SharedReach.app"
