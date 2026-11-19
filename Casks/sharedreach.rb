@@ -1,6 +1,6 @@
 cask "sharedreach" do
-  version "2026.11.18"
-  sha256 "42e5d29904549fd10c43a5517298a0c772bf624ca47eb20d4010e152da5a434b"
+  version "2026.11.19"
+  sha256 "d767b22016ef47ca023b39c9fb42a92443a52cee11daa57c1548cd110b082f04"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/shared-reach/SharedReach.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
