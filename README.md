@@ -9,6 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
+| `clausereturn` | ClauseReturn | Clause Return: a keyboard-accessible speaking application for nonspeaking adults who use |
 | `sharedreach` | SharedReach | Shared Reach: Two people separately trace comfortable seated reaches; the Mac invents |
 | `silkplay` | Silkplay | A tabletop wave playground for curious families, students and adults on Mac |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |
@@ -48,7 +49,6 @@ brew install --cask <name>
 | `evidencepack` | EvidencePack | Accessibility Evidence Pack for SaaS teams, agencies, and digital product owners shipping |
 | `airgapredactionworkbench` | AirgapRedactionWorkbench | Air-gapped Redaction Workbench: target users are law firms, compliance teams |
 | `contractdriftfinder` | ContractDriftFinder | A native macOS app for SMB owners, ops managers, and freelancers that opens PDFs locally |
-| `downloadtriageassistant` | DownloadTriageAssistant | A native macOS desktop utility for security-conscious users, consultants, and IT admins |
 
 Every app is ad-hoc signed rather than notarised, so macOS blocks it on first
 launch: right-click → Open → confirm, once. Source and full build history:
