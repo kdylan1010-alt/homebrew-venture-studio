@@ -9,7 +9,7 @@ brew install --cask <name>
 
 | cask | app | what it does |
 |---|---|---|
-| `clausereturn` | ClauseReturn | Clause Return: a keyboard-accessible speaking application for nonspeaking adults who use |
+| `clausereturn` | ClauseReturn | Clause Return: Interrupt a queued spoken message to correct one detail |
 | `sharedreach` | SharedReach | Shared Reach: Two people separately trace comfortable seated reaches; the Mac invents |
 | `silkplay` | Silkplay | A tabletop wave playground for curious families, students and adults on Mac |
 | `drillfox` | DrillFox | Drill Fox: Draw a training drill and assign points |

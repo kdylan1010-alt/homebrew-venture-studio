@@ -1,11 +1,11 @@
 cask "clausereturn" do
-  version "2026.11.24"
-  sha256 "dbae5614f1db50cc39a49424495ac4b4a8b2c705fb340a8f8360b99e9c1f50d8"
+  version "2026.11.26"
+  sha256 "8e69da3d4f10480dfe575b78c1806da6c280873243136332c232bcfa62603dcc"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/clause-return/ClauseReturn.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
   name "ClauseReturn"
-  desc "Clause Return: a keyboard-accessible speaking application for"
+  desc "Clause Return: Interrupt a queued spoken message to correct one detail"
   homepage "https://github.com/kdylan1010-alt/venture-studio-portfolio"
 
   app "ClauseReturn.app"
