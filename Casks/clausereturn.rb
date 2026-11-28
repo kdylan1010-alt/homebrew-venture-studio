@@ -1,6 +1,6 @@
 cask "clausereturn" do
-  version "2026.11.26"
-  sha256 "8e69da3d4f10480dfe575b78c1806da6c280873243136332c232bcfa62603dcc"
+  version "2026.11.28"
+  sha256 "497d63dfed2e54aa4504ec15a2ffe08702ef31a323903a1076ecd36ae489cf1f"
 
   url "https://github.com/kdylan1010-alt/venture-studio-portfolio/releases/download/clause-return/ClauseReturn.dmg",
       verified: "github.com/kdylan1010-alt/venture-studio-portfolio/"
